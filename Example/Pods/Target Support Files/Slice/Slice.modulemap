@@ -1,0 +1,6 @@
+framework module Slice {
+  umbrella header "Slice-umbrella.h"
+
+  export *
+  module * { export * }
+}

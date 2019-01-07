@@ -1,0 +1,16 @@
+PODS:
+  - Slice (0.1.0)
+
+DEPENDENCIES:
+  - Slice (from `../`)
+
+EXTERNAL SOURCES:
+  Slice:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Slice: f1c94adc701ef27c8afe960125763a59572503de
+
+PODFILE CHECKSUM: 531e3e998fc9f4e8cd28d099ed36fad323c80b21
+
+COCOAPODS: 1.5.3

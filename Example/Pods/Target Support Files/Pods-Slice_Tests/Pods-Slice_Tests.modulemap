@@ -1,0 +1,6 @@
+framework module Pods_Slice_Tests {
+  umbrella header "Pods-Slice_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
