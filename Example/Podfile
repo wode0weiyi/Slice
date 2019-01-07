@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'Slice_Example' do
+  pod 'Slice', :path => '../'
+
+  target 'Slice_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
